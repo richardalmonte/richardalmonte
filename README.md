@@ -9,15 +9,16 @@ Eager to learn new things!
   - Javascript
   
 - 🌱 I’m currently learning:
-  - More C#
+  - More about C#
   - Microservices on Azure
   - Azure Devops
   - How to Write Techinical Documentation 
-  
-  # Find me on:
-- <a href="https://www.linkedin.com/in/richardalmonte/">LinkedIn</a> 💼
-- Learning on <a href="https://platzi.com/@richardalmonte/">Platzi</a>
 
+
+<p align="center">
+<a href="https://linkedin.com/in/richardalmonte" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="richardalmonte" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/4822855" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="richardalmonte" height="20" width="20" /></a>
+</p>
 
 <!--
 **richardalmonte/richardalmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
