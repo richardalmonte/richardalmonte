@@ -3,13 +3,24 @@
 
 Eager to learn new things!
 
-- 🔭 I’m currently working on <a href="http://pivotal.it/crm/"> Pivotal CRM</a> platform focused on:
+- 🔭 I’m currently working for <a href="http://www.spindox.it"> Spindox SPA</a> focused on:
+  - C#
+  - .Net Core
+  - REST API
+  - Typescript (NodeJS, <a href="https://nestjs.com">NestJS</a>)
+
+
+- Experience with:
   - C#
   - Windows Forms
+  - WPF
+  - Xamarin.Forms
   - Javascript
-  
+  - SQL Server
+
+
 - 🌱 I’m currently learning:
-  - More about C#
+  - More about C#/.Net Core
   - Microservices on Azure
   - Azure Devops
   - How to Write Techinical Documentation 
