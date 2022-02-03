@@ -1,6 +1,7 @@
 # Hi, I'm Richard :man_technologist:
 
 
+![](https://vistr.dev/badge?repo=richardalmonte.richardalmonte)
 Eager to learn new things!
 
 - 🔭 I’m currently working for <a href="http://www.spindox.it"> Spindox SPA</a> focused on:
@@ -24,7 +25,6 @@ Eager to learn new things!
   - Microservices on Azure
   - Azure Devops
   - How to Write Techinical Documentation 
-
 
 <p align="center">
 <a href="https://linkedin.com/in/richardalmonte" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="richardalmonte" height="20" width="20" /></a>
