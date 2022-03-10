@@ -30,9 +30,15 @@ I'm Richard.
   - How to Write Techinical Documentation 
 
 
+<!--🔗 &nbsp;**Connect with me** -->
 <p align="center">
-<a href="https://linkedin.com/in/richardalmonte" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="richardalmonte" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/4822855" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="richardalmonte" height="20" width="20" /></a>
+<!-- <a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a> -->
+<a href="https://twitter.com/ricalmont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Richard's Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/richardalmonte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Richard's LinkedIn" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4822855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4822855" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/richardalmonte" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="4822855" height="30" width="40" /></a>
+
+<!--<a href="https://instagram.com/richardalmonte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="richardalmonte" height="30" width="40" /></a> -->
 </p>
   
 <br/>
@@ -47,7 +53,7 @@ I'm Richard.
   <img src="https://profile-counter.glitch.me/richardalmonte/count.svg" />
 </p>
 
-#
+
 <!--
 **richardalmonte/richardalmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
